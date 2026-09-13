@@ -1,0 +1,13 @@
+# Binarios
+/bin/
+*.test
+*.out
+
+# Diretorios gerados (planilhas baixadas, extracoes)
+planilhas/
+*.xlsx.tmp
+
+# Python
+__pycache__/
+*.pyc
+.venv/

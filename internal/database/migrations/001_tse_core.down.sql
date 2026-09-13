@@ -1,0 +1,16 @@
+DROP TABLE IF EXISTS tse_receita_doador_originario_orgao_partidario;
+DROP TABLE IF EXISTS tse_receita_doador_originario_candidato;
+DROP TABLE IF EXISTS tse_receita_orgao_partidario;
+DROP TABLE IF EXISTS tse_receita_candidato;
+DROP TABLE IF EXISTS tse_despesa_orgao_partidario;
+DROP TABLE IF EXISTS tse_despesa_candidato;
+DROP TABLE IF EXISTS tse_prestacao_contas;
+DROP TABLE IF EXISTS tse_doador;
+DROP TABLE IF EXISTS tse_fornecedor;
+DROP TABLE IF EXISTS tse_candidato;
+DROP TABLE IF EXISTS tse_partido;
+DROP TABLE IF EXISTS tse_unidade_eleitoral;
+DROP TABLE IF EXISTS tse_eleicao;
+DROP TABLE IF EXISTS tse_bem_candidato;
+DROP TABLE IF EXISTS tse_arquivo_importado;
+DROP TABLE IF EXISTS tse_meta;
